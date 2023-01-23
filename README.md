@@ -26,6 +26,7 @@
     - Codigo
       - Destacarlo encerrandolo entre virgulillas \~
       - Resaltarlo dentro de una frase encerrandolo entre dos acentos graves \`
+    - Anular Markdown usando la barra invertida, la cual puedes encontrar, tecleando alt y 92 \\
 
 ___
 
