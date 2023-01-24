@@ -154,3 +154,91 @@ Si ves un error que dice "Unable to verify your captcha response", es porque la 
 
 - Para personalizar el perfil, haz clic en el menú de la esquina superior derecha de la página y selecciona Your profile.
 
+### VS Code (Visual Studio Code)
+
+Ya que tenemos nuestro correo, nuestro gestor de contraseñas seguras, y nuestra cuenta en GitHub, ahora si podemos comenzar con un programa de edición de codigo vinculado a Github y este será VS Code.
+
+Uno de los programas que no pueden faltar en el repertorio de cualquier programador es un editor de código. Dependiendo del tipo de programa que vayamos a crear, y de la plataforma para la que esté destinado, hay editores especialmente diseñados para ellos, como sería el caso de Android Studio a la hora de crear apps para Android. Sin embargo, también hay otros editores de código genéricos, mucho más versátiles, que nos permiten crear todo tipo de programas y adaptarlo a nuestras necesidades de manera que podamos usarlo para todo. Y uno de los mejores es Visual Studio Code
+
+#### ¿Qué es Visual Studio Code?
+
+Visual Studio Code es un editor de código totalmente gratuito y OpenSource desarrollado por Microsoft. Mientras que Visual Studio está especialmente pensado para crear programas y plataformas para Windows y Azure, ya que trabaja directamente con las APIs de estos sistemas, Studio Code es un programa versátil. De cero, es poco más que un editor sencillo como el Bloc de Notas con soporte para algunos lenguajes de programación básicos, pero gracias a la gran cantidad de extensiones que podemos bajar e instalar en este programa es posible hacerlo compatible con cualquier lenguaje de programación, y cualquier plataforma. Es un editor de código que, literalmente, vale para todo.
+
+![Ejemplo VS Code 1](https://www.softzone.es/app/uploads-softzone.es/2020/02/Programar-en-Visual-Studio-Code.jpg)
+
+#### Principales características
+
+Visual Studio Code hereda muchas de las funciones que, hasta entonces, eran exclusivas de Visual Studio. Una de ellas es **IntelliSense**. Gracias a esta función, el editor de código nos permite resaltar la sintaxis del código, además de disponer de otras características muy interesantes como, por ejemplo, auto-completado de código basado en variables, definición de funciones y mucho más.
+
+Este editor de código, además, nos permite depurar el código de forma mucho más sencilla que otros editores. Gracias a que incluye su propio **debugger**, podemos lanzar cualquier programa directamente desde este editor para compilarlo y ejecutarlo, viendo en este depurador la información que se va generando en tiempo real. Cualquier error, aviso o interrupción quedará reflejado, y podremos acudir a solucionarlo.
+
+Tanto si creamos código nosotros mismos, como si trabajamos con otras personas, las plataformas de versionado de datos son imprescindibles. Visual Studio Code hace que trabajar con **Git** sea más fácil que nunca. Gracias a él vamos a poder ver diferencias de código, revertir cambios y crear versiones de programas de forma muy sencilla. Como GitHub es propiedad de Microsoft, también podemos integrarlo con esta plataforma para sincronizar los cambios directamente en ella.
+
+Y, por supuesto, no podemos olvidarnos de su característica más importante: las **extensiones**. Gracias al diseño modular de este editor de código vamos a poder personalizarlo y adaptarlo a nuestras necesidades. Estas extensiones nos permiten añadir soporte para nuevos lenguajes de programación, cambiar los colores y el tema del programa, añadir nuevos depuradores de código y conectarlo a otros programas y servicios adicionales.
+
+***VSC recopila datos de los usuarios** por defecto, datos que son enviados a Microsoft. Sin embargo, estos datos se pueden desactivar fácilmente desde los ajustes del programa para que todos aquellos que quieran preservar su privacidad puedan hacerlo.*
+
+#### Descargar e instalar Visual Studio Code
+
+Como hemos dicho, Visual Studio Code es un programa totalmente gratuito y de código abierto. Por lo tanto, cualquier usuario interesado en usarlo, o solo en probarlo, puede bajarlo sin ninguna barrera. Para ello, lo que debemos hacer es acceder a [este enlace](https://code.visualstudio.com/), a su página principal donde encontraremos todas las versiones del programa.
+
+VSC está disponible para Windows, macOS y Linux, por lo que, independientemente del sistema operativo que utilicemos, vamos a poder bajarlo e instalarlo en nuestro ordenador. En el caso de Windows, por ejemplo, tendremos versiones para 32 bits, 64 bits y ARM, y podemos bajarlo tanto en instalador EXE, MSI o en un ZIP en formato portable. En Linux tendremos versiones de 64 bits, ARM y ARM64, y está disponible en DEB, RPM, TAR.GZ y en la Snap Store. Por último, en macOS, podemos bajarlo en formato ZIP para equipos Intel, Apple Silicon o una versión universal.
+
+![Ejemplo VS Code 2](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Descargar.jpg)
+
+Y si queremos probar las versiones Insider, antes que nadie, para tener una toma de contacto con las novedades, podemos hacerlo desde [aquí](https://code.visualstudio.com/insiders/).
+
+##### Instalar
+
+En nuestro caso vamos a instalar la versión de 64 bits para Windows 10. Descargamos dicha versión desde su página web, y una vez bajado el instalador lo ejecutamos.
+
+1. Lo primero que veremos serán los términos de uso del programa, los cuales tendremos que aceptar para continuar.
+
+![Ejemplo VS Code 3](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Instalar-1.jpg)
+
+2. A continuación, el asistente nos preguntará dónde queremos instalar el programa. Podemos usar la ruta por defecto, o cambiarla nosotros a otro directorio (u otro disco duro) donde queramos copiar el programa.
+
+![Ejemplo VS Code 4](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Instalar-2.jpg)
+
+3. Acto seguido, el instalador nos pedirá elegir el nombre que queremos darle a la carpeta del inicio donde se guardarán los accesos. Si no queremos crear una carpeta dentro de este inicio podemos marcar la casilla de la parte inferior para omitir este paso.
+
+![Ejemplo VS Code 5](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Instalar-3.jpg)
+
+4. Seguimos con el proceso de instalación y ahora tendremos que seleccionar las tareas adicionales del programa. Podemos elegir si queremos un acceso directo, añadir entradas al menú contextual del programa, e incluso si queremos añadir el programa al PATH de Windows. Esta es la opción más interesante, las otras podemos marcarlas, o no, al gusto.
+
+![Ejemplo VSC 6](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Instalar-4.jpg)
+
+5. Para terminar, veremos un resumen con todas las opciones que hemos marcado.
+
+![Ejemplo VSC 7](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Instalar-5.jpg)
+
+6. Si está todo correcto, hacemos clic sobre «Instalar» y comenzará la copia del programa.
+
+![Ejemplo VSC 8](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Instalar-6.jpg)
+
+7. Al acabar, ya tendremos el programa instalado en nuestro ordenador. Podremos elegir si queremos abrirlo al momento, o si queremos finalizar el asistente, pero sin abrirlo.
+
+![Ejemplo VSC 9](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Instalar-7.jpg)
+
+##### Actualizar
+
+Cada cierto tiempo, Microsoft lanza una nueva versión de su editor de código con novedades y mejoras que nos permiten aprovechar al máximo sus funciones. El propio Visual Studio Code tiene una función que nos permite bajar e instalar directamente las nuevas versiones desde el programa, sin tener que hacer nosotros nada más. Cada vez que haya una nueva versión veremos un aviso desde el que podremos bajarla e instalarla al momento, o más tarde.
+
+![Ejemplo VSC 10](https://www.softzone.es/app/uploads-softzone.es/2021/07/Actualizar-VSC.jpg)
+
+De esta manera podremos tener siempre nuestro editor de código al día, y aprovechar al máximo sus funciones y características. Además, el proceso de actualización no borra ninguna configuración ni ninguna extensión que tengamos instalada en el programa, por lo que podemos tenerlo al día sin miedo.
+
+#### Instalar o quitar extensiones de VSC
+Por supuesto, el aspecto más interesante de este editor son las extensiones. Dentro de Visual Studio Code podemos encontrar nuestra propia tienda de extensiones desde la que podremos buscar, bajar e instalar las que queramos en función del tipo de proyecto que estemos llevando a cabo.
+
+1. Esta tienda de extensiones podemos abrirla desde el icono de las extensiones de la barra izquierda, desde el apartado «Ver» del menú superior, o con el atajo de teclado **Control + Shift + X**.
+
+![Ejemplo VSC 91](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Extensiones-1-.jpg)
+
+2. Podremos ver una **lista con todas las extensiones** que tenemos instaladas, además de las extensiones que el programa considere interesantes para nosotros y que podemos instalar. También tendremos un buscador, en la parte superior, para buscar las extensiones que queramos o necesitemos. Una vez encontrada la extensión que queremos instalar, simplemente la seleccionamos, y haremos clic sobre el botón de instalar para añadirla al programa.
+
+![Ejemplo VSC 11](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Extensiones-2.jpg)
+
+3. En unos segundos, la extensión estará lista y cargada. Las extensiones se cargan en procesos separados e independientes del editor, por lo que, aunque usemos muchas extensiones, VSC no irá lento. De todas formas, podemos desinstalar (o deshabilitar) todas aquellas extensiones que no necesitemos desde este mismo apartado para tener el programa lo más limpio y organizado posible
+
+![Ejemplo VSC 12](https://www.softzone.es/app/uploads-softzone.es/2021/07/Visual-Studio-Code-Extensiones-3.jpg)
