@@ -16,7 +16,7 @@ El jeff estuvo aqui 💩
     - Viñetas
     - Espaciado con Tabulador
     - Separación por lineas usando guión bajo
-    - Citas usando simbolo mayor que \> antes de las citas
+    - Citas usando simbolo mayor que > antes de las citas
     - Cursivas usando asterisco o guión bajo * o _ para encerrar el texto en cuestión, colocandolo antes y despues de dicho texto, se recomienda usar siempre asterisco
     - Negritas usando doble asterisco o doble guión bajo, para encerrar el texto en cuestión, colocandolo antes y despues de dicho texto, se recomienda usar asterisco
     - Cursiva en Negrita, usando tripe asterisco para encerrar el texto en cuestión, colocandolo antes y despues de dicho texto.
@@ -28,8 +28,8 @@ El jeff estuvo aqui 💩
     - Imagenes
     - Codigo
       - Destacarlo encerrandolo entre virgulillas \~
-      - Resaltarlo dentro de una frase encerrandolo entre dos acentos graves \`
-    - Anular Markdown usando la barra invertida, la cual puedes encontrar, tecleando alt y 92 \\
+      - Resaltarlo dentro de una frase encerrandolo entre dos acentos graves `
+    - Anular Markdown usando la barra invertida, la cual puedes encontrar, tecleando alt y 92 \
 
 ___
 
@@ -52,20 +52,42 @@ Para poder hacernos de las herramientas necesarias para comenzar nuestro viaje p
 El correo que abriremos debe tener ciertas caracteristicas que nos permitiran usarlo como una herramienta de trabajo completa, incluyendo la parte de la autopromoción, recordando que es parte vital de nuestra  presentación, el correo es una de las primeras cosas que nuestros contratadores y colaboradores veran de nosotros, por ello el correo debe ser:
 
 1. **Formal**: No podemos hacer uso de apodos o garigoleados alias. La utilización efectiva de nuestro nombre, buscando la nomenclatura más corta y distintiva, sera la mejor opción.
-2. **Corto**: Buscar el acomodo de nuestros nombres y apellidos que sea más corto, recordemos que el vertiginoso aconteser actual, el consumo rapido es una prioridad, por lo que la economía en caracteres siempre sera algo que se agradecera. 
+2. **Corto**: Buscar el acomodo de nuestros nombres y apellidos que sea más corto, recordemos que el vertiginoso aconteser actual, el consumo rapido es una prioridad, por lo que la economía en caracteres siempre sera algo que se agradecera.
 3. **Distintivo**: A la vez de ser formal y corto, el correo debe distinguirte, no solo por la competancia de nombres que impediran tu registro en gmail, si no tambien por que sera la forma en que clientes y compañeros puedan identificarte entre una infinidad de otredades. Por lo anterior debes escoger con cuidado el mejor acomodo de tu apellido y nombre, donde quizas el primero o el segundo tengan más peso distintivo.
-4. **Uso creativo de separativos**: Recordemos que el espaciado no es aplicable en los correos, por lo que debemos hacer un uso creativo de puntos y guiones, para separar nombres y apellidos, lo cual ayudara no solo en la presentación si no tambien para obtener disponibilidad. 
+4. **Uso creativo de separativos**: Recordemos que el espaciado no es aplicable en los correos, por lo que debemos hacer un uso creativo de puntos y guiones, para separar nombres y apellidos, lo cual ayudara no solo en la presentación si no tambien para obtener disponibilidad.
 
 ### Imagen de Perfil
 
-Una vez teniendo tu correo, tu imagen de perfil es importante, y lo ideal es que sea la misma para las distintas plataformas de presentación, pues es la forma en que clientes, empleadores y colaboradores te identificaran. 
+Una vez teniendo tu correo, tu imagen de perfil es importante, y lo ideal es que sea la misma para las distintas plataformas de presentación, pues es la forma en que clientes, empleadores y colaboradores te identificaran.
 
 A continuación te daremos un listado de recomendaciones para tu foto de perfil:
 
 1. **Formal** : Al igual que tu correo, tu imagen de perfil es uno de los primeros acercamientos a tu persona, y en un hambiente profesional uno debe dar una imagen formal, tratando de evitar las extravagancias en vestimenta y peinados, evitar maquillaje recargados en mujeres,  así como tratar de evitar el uso de Piercings, sombreros, lentes oscuros, joyeria, bufandas o demas adornos que solo distraeran de lo central que eres tú, y que pueden llegar a dar una imagen herronea de tu persona.
-2. **Fresca**: El que la imagen sea formal no debe estar peleado con que tu imagen sea fresca, relajada, una sonrisa será siempre mejor que un gesto adusto, recuerda relajarte y mostrar tu mejor versión. Una persona feliz siempre sera bienvenida, muetra tu felicidad y seguridad. 
+2. **Fresca**: El que la imagen sea formal no debe estar peleado con que tu imagen sea fresca, relajada, una sonrisa será siempre mejor que un gesto adusto, recuerda relajarte y mostrar tu mejor versión. Una persona feliz siempre sera bienvenida, muetra tu felicidad y seguridad.
 3. **Luminosa**: Debemos evitar iluminar de maneras raras que puedan distraer al observador, evitemos las luces de colores a menos que esten trabajadas con discreción para destacarnos, pero de preferencia usemos luz blanca que permita ver claramente nuestras facciones, las luces calidas tienden a oscurecer y a dar sensaciones de melancolia, evitemosla si no esta bien usada. Evitemos tambien los alto contrastes que tienden más a generar dramatismo que armonia. Luz, que se te vea bien e iluminado, brilla desde tu foto de perfil.
-4. **Medium Close up**: Una foto de cuerpo entero puede alejarnos de lo más importante para conocerte, tu rostro. Ahora es cierto que si nos acercamos mucho, tal vez no podamos tener una visión clara de ti. Un plano medio podría servir, pero nada como el encuadre de medium close up, que es el corte de los bustos, tomando de la parte superior del pecho hasta tu cabeza. Con este plano tenemos distancia suficiente para apreciarte, no muy cerca, no muy lejos. 
+4. **Medium Close up**: Una foto de cuerpo entero puede alejarnos de lo más importante para conocerte, tu rostro. Ahora es cierto que si nos acercamos mucho, tal vez no podamos tener una visión clara de ti. Un plano medio podría servir, pero nada como el encuadre de medium close up, que es el corte de los bustos, tomando de la parte superior del pecho hasta tu cabeza. Con este plano tenemos distancia suficiente para apreciarte, no muy cerca, no muy lejos.
+
+### LastPass
+
+Te recomendamos que uses LastPass como  tu gestor y generador de contraseñas, veras que es mucho más seguro y practico que el de google o otras aplicaciones. Para usarlo deberas abrir una cuenta, por eso es necesario previamente tener tu correo de Gmail.
+
+#### ¿Que es LastPass?
+
+LastPass es un gestor de contraseñas y una herramienta para completar formularios en línea que hace que navegar resulte más sencillo y seguro.
+
+#### ¿Como abrir una cuenta de LastPass?
+
+El primer paso para comenzar a usar LastPass es crear su cuenta de LastPass. Puede iniciar una versión de prueba gratuita o comprar un nuevo plan. Las instrucciones pueden variar, en función del navegador web que use durante la configuración de la cuenta.
+
+1. Vaya a la [página de precios de lastpass](https://www.lastpass.com/pricing).
+2. Elija entre Iniciar una versión gratuita de prueba durante 30 días o Comprar ahora.
+3. Introduzca una dirección de e-mail para su nueva cuenta.
+4. Crear una nueva contraseña maestra y confírmela.
+5. Consejo: Le recomendamos que use una frase que sea única para su vida.
+6. Si lo desea (muy recomendable), introduzca un indicio sobre la contraseña en la Recordatorio campo. Si olvida la contraseña maestra, este indicio se le enviará por correo electrónico para que lo ayude a recordar. *No convierta el indicio sobre la contraseña en su contraseña maestra*.
+7. Haga clic Iniciar mi prueba gratuita de 30 días.
+8. Resultados: Se ha creado su cuenta de LastPass.
+9. Qué hacer a continuación: Instalación e inicio de sesión en LastPass para los navegadores web que desee.
 
 ### Github
 
