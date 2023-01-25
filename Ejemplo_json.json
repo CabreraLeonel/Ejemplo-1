@@ -1,4 +1,9 @@
 {
+    "¿Que es Json?": "JavaScript Object Notation", "es un lenguaje intermediario que podemos utilizar para comunicar appis entre si, o el front end y el back end, de nuestras aplicaciones"
+    "Sintaxis Json": "clave-valor", "la clave ira del lado izquierdo y el valor del derecho, separados por dos puntos :"
+    "un conjunto de claves y valores conforman un objeto, que JSon representa mediante la apertura y cierre de llaves{}"
+    
+    
     
     "Objeto JSON": {"Se define abriendo y cerrando llaves, tras las cuales se coloca coma , si se abrira otro objeto"},  //dentro de estas llaves vamos a definir propiedades o atributos del objeto,
     "Propiedad 1 ejemplo": [
