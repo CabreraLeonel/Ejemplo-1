@@ -244,6 +244,7 @@ Cada cierto tiempo, Microsoft lanza una nueva versión de su editor de código c
 De esta manera podremos tener siempre nuestro editor de código al día, y aprovechar al máximo sus funciones y características. Además, el proceso de actualización no borra ninguna configuración ni ninguna extensión que tengamos instalada en el programa, por lo que podemos tenerlo al día sin miedo.
 
 #### Instalar o quitar extensiones de VSC
+
 Por supuesto, el aspecto más interesante de este editor son las extensiones. Dentro de Visual Studio Code podemos encontrar nuestra propia tienda de extensiones desde la que podremos buscar, bajar e instalar las que queramos en función del tipo de proyecto que estemos llevando a cabo.
 
 1. Esta tienda de extensiones podemos abrirla desde el icono de las extensiones de la barra izquierda, desde el apartado «Ver» del menú superior, o con el atajo de teclado **Control + Shift + X**.

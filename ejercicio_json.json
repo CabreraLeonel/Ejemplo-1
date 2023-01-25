@@ -1,0 +1,28 @@
+{
+    "var_boolean": true,      // true ; false
+    "var_numeric1": 123,      // integer
+    "var_numeric2": 123.456,  // decimal
+    "var_numeric3": 123e-5,   // 123e-5 = 0.00123 ; 123e7 = 1230000000
+    "var_string": "abcABC",   // text
+    "var_json": {             // object json (embedded)
+      "var1": "a",
+      "var2": {
+        "var1": 1,
+        "var2": "b"
+      }
+    },
+    "var_array1": [1, 2, 3, 4, 5, 6, 7], // Data colections, 
+    "var_array2": ["a", "b", "c", "d"],
+    "var_array3": [true, false, false],
+    "var_array4": [
+      {"a": 1, "b": 2},
+      {"c": 3, "d": 4},
+      {"f": "Some string"}
+    ],
+    "var_array5": [
+      [1, 2, 3],
+      [4, 5, 6],
+      [7, 8, 9]
+    ],
+    "special_value": null
+  }
