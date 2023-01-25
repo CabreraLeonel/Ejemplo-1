@@ -30,6 +30,13 @@ El jeff estuvo aqui 💩
       - Destacarlo encerrandolo entre virgulillas \~
       - Resaltarlo dentro de una frase encerrandolo entre dos acentos graves `
     - Anular Markdown usando la barra invertida, la cual puedes encontrar, tecleando alt y 92 \
+    - Generar Tablas: Usa el simbolo *pipe*
+
+|ti1|ti2|ti3 |
+|---|---|----|
+|ej1|ej2|ej3 |
+|ej4|ej5|ej6 |
+|ej7|ej8|ej9 |
 
 ___
 
@@ -44,6 +51,8 @@ Recuento de pasos a seguir para comenzar a usar Markdown usando VS code vinculad
 Para poder programar, no solo requeriremos aprender nuevos lenguajes y habilidades, si no que ocupamos plataformas, lienzos sobre los cuales poder trabajar y de igual manera herramientas con las cuales plasmar nuestra programación.
 
 A continuación desglosaremos las herramientas basicas para comenzar esta aventura.
+
+___
 
 ### Correo Electronico Gmail
 
@@ -67,6 +76,8 @@ A continuación te daremos un listado de recomendaciones para tu foto de perfil:
 3. **Luminosa**: Debemos evitar iluminar de maneras raras que puedan distraer al observador, evitemos las luces de colores a menos que esten trabajadas con discreción para destacarnos, pero de preferencia usemos luz blanca que permita ver claramente nuestras facciones, las luces calidas tienden a oscurecer y a dar sensaciones de melancolia, evitemosla si no esta bien usada. Evitemos tambien los alto contrastes que tienden más a generar dramatismo que armonia. Luz, que se te vea bien e iluminado, brilla desde tu foto de perfil.
 4. **Medium Close up**: Una foto de cuerpo entero puede alejarnos de lo más importante para conocerte, tu rostro. Ahora es cierto que si nos acercamos mucho, tal vez no podamos tener una visión clara de ti. Un plano medio podría servir, pero nada como el encuadre de medium close up, que es el corte de los bustos, tomando de la parte superior del pecho hasta tu cabeza. Con este plano tenemos distancia suficiente para apreciarte, no muy cerca, no muy lejos.
 
+___
+
 ### LastPass
 
 Te recomendamos que uses LastPass como  tu gestor y generador de contraseñas, veras que es mucho más seguro y practico que el de google o otras aplicaciones. Para usarlo deberas abrir una cuenta, por eso es necesario previamente tener tu correo de Gmail.
@@ -88,6 +99,8 @@ El primer paso para comenzar a usar LastPass es crear su cuenta de LastPass. Pue
 7. Haga clic Iniciar mi prueba gratuita de 30 días.
 8. Resultados: Se ha creado su cuenta de LastPass.
 9. Qué hacer a continuación: Instalación e inicio de sesión en LastPass para los navegadores web que desee.
+
+___
 
 ### Github
 
@@ -153,6 +166,8 @@ Si ves un error que dice "Unable to verify your captcha response", es porque la 
 - Para visitar el panel de control de Github, haz clic en el icono del gato en la esquina superior izquierda de la página.
 
 - Para personalizar el perfil, haz clic en el menú de la esquina superior derecha de la página y selecciona Your profile.
+
+___
 
 ### VS Code (Visual Studio Code)
 
