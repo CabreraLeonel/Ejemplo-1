@@ -30,7 +30,7 @@ El jeff estuvo aqui 💩
       - Destacarlo encerrandolo entre virgulillas \~
       - Resaltarlo dentro de una frase encerrandolo entre dos acentos graves `
     - Anular Markdown usando la barra invertida, la cual puedes encontrar, tecleando alt y 92 \
-    - Generar Tablas: Usa el simbolo *pipe*
+    - Generar Tablas: Usa el simbolo *pipe* |
 
 |ti1|ti2|ti3 |
 |---|---|----|
