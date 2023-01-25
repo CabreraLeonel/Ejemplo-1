@@ -1,0 +1,18 @@
+{
+    
+    "Objeto JSON": {"Se define abriendo y cerrando llaves, tras las cuales se coloca coma , si se abrira otro objeto"},  //dentro de estas llaves vamos a definir propiedades o atributos del objeto,
+    "Propiedad 1 ejemplo": [
+        {"supongamos que nuestro objeto es una persona},
+    {"persona" que sera el atributo: "Jeff" que sera el valor},
+    {el valor no solo puede ser de texto, puede ser de tipo numerico}
+    ejemplo: [edad: 34]
+    {El valor puede ser tambien una "función"}
+    ejemplo: {render: function(){}}
+
+    Tambien se puede crar un objeto más complejo
+    ejemplo:{"Personas":[
+        {nombre:"Jeff", "edad":23}
+        {nombre:"Jeff", "edad":23}
+    ]};
+
+   }
