@@ -20,8 +20,7 @@
             }
         ]
     }
-}
-
+},
 {
     "Capitulo":{
         "Titulo":"Objeto JSON",
@@ -80,6 +79,52 @@
                 ]
             }
         }
+        ]
+    }
+},
+{ 
+    "capitulo": {
+        "titulo": "Llaves {} y corchetes[]",
+        "contenido": [
+            {
+                "subtitulo": "Llaves {}",
+                "contenido": [
+                    {
+                        "contenido": "Las llaves se utilizan para contener un OBJETO JSON sensillo, unico."
+                    }
+                ]
+            },
+            {
+                "subtitulo": "Corchetes []",
+                "contenido": [
+                    {
+                        "contenido": "Los corchetes se usan para contener una serie de OBJETOS JSON, compuestos, listados, varios."
+                    }
+                ]
+            }
+        ]
+    }
+},
+{ 
+    "capitulo": {
+        "titulo": "Notas",
+        "contenido": [
+            {
+                "subtitulo": "Nota 1:",
+                "contenido": [
+                    {
+                        "contenido": "Un OBJETO JSON puede contener contenedores (corchetes []) pero un contenedor (corchetes []) debe antes pertenecer a un objeto, osea debe estar dentro de llaves {}."
+                    }
+                ]
+            },
+            {
+                "subtitulo": "Nota 2:",
+                "contenido": [
+                    {
+                        "contenido": "Los OBJETOS JSON, se separan por medio de comas , al final de cada uno."
+                    }
+                ]
+            }
         ]
     }
 }
