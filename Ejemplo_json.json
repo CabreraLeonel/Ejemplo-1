@@ -19,10 +19,8 @@
                 ]
             }
         ]
-    }
-},
-{
-    "Capitulo":{
+    },
+    "Capitulo 2":{
         "Titulo":"Objeto JSON",
         "Contenido": [
             {
@@ -40,11 +38,12 @@
                         "contenido":"Supongamos que nuestro objeto es una persona",
                         "Ejemplo 1": [
                             {
-                                "Ejemplo 1":"PERSONA que será la CLAVE: JEFF que será el VALOR",
+                                "Ejemplo 1":"PERSONA que será la CLAVE: JEFF que será el VALOR"
                             }
                         ]
                     }
                 ]
+            },
             {
                 "subtitulo": "Propiedad 2 ejemplo",
                 "Contenido": [
@@ -68,22 +67,14 @@
                 "Contenido": [
                     {
                         "contenido": " Tambien se puede crar un objeto más complejo",
-                        "Ejemplo 4": "Dónde PERSONAS, sea la CLAVE, y el VALOR sea un conjunto de OBJETOS JSON. Para esto antes de la clave estaría una llave { despues entre comillas la clave PERSONAS dos puntos : tras los cuales se abririan corchetes [ , para incluir otros OBJETOS JSON. Se incluyen los OBJETOS JSON que constituyen el VALOR, y se finaliza cerrando los corchetes ] y la llave }.
-                        {Personas:[
-                                      nombre:Jeff,   edad:34
-                                      nombre:Jorch,  edad:35
-                                      nombre:Sinuhe, edad:40
-                                  ]
-                        };"
+                        "Ejemplo 4": "Dónde PERSONAS, sea la CLAVE, y el VALOR sea un conjunto de OBJETOS JSON. Para esto antes de la clave estaría una llave { despues entre comillas la clave PERSONAS dos puntos : tras los cuales se abririan corchetes [ , para incluir otros OBJETOS JSON. Se incluyen los OBJETOS JSON que constituyen el VALOR, y se finaliza cerrando los corchetes ] y la llave }.{Personas:[   \n nombre:Jeff,   edad:34 \n nombre:Jorch,  edad:35 \n nombre:Sinuhe, \n edad:40 \n] \n};"
                     }
                 ]
             }
-        }
+        
         ]
-    }
-},
-{ 
-    "capitulo": {
+    }, 
+    "capitulo 3": {
         "titulo": "Llaves {} y corchetes[]",
         "contenido": [
             {
@@ -103,10 +94,8 @@
                 ]
             }
         ]
-    }
-},
-{ 
-    "capitulo": {
+    },
+    "capitulo 4": {
         "titulo": "Notas",
         "contenido": [
             {
