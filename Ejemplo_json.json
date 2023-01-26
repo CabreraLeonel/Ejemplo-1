@@ -110,7 +110,7 @@
         "titulo": "Notas",
         "contenido": [
             {
-                "subtitulo": "Nota 1:",
+                "subtitulo": "Nota 1:  CORCHETES Y LLAVES",
                 "contenido": [
                     {
                         "contenido": "Un OBJETO JSON puede contener contenedores (corchetes []) pero un contenedor (corchetes []) debe antes pertenecer a un objeto, osea debe estar dentro de llaves {}."
@@ -118,10 +118,18 @@
                 ]
             },
             {
-                "subtitulo": "Nota 2:",
+                "subtitulo": "Nota 2: Las COMAS",
                 "contenido": [
                     {
                         "contenido": "Los OBJETOS JSON, se separan por medio de comas , al final de cada uno."
+                    }
+                ]
+            },
+            {
+                "subtitulo": "Nota 3: Las COMILLAS",
+                "contenido": [
+                    {
+                        "contenido": "Las COMILLAS sirven para identificas nuestros valores, si es una variable numerica, numerica decimal o exponencial, no necesita comillas, tampoco si es una variable BOLLEANA, osea de VERDADERO O FALSO."
                     }
                 ]
             }
