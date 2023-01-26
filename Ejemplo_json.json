@@ -1,23 +1,85 @@
+{ 
+    "capitulo": {
+        "titulo": "JSON",
+        "contenido": [
+            {
+                "subtitulo": "Descripción",
+                "contenido": [
+                    {
+                        "contenido": "¿Que es Json?: JavaScript Object Notation, es un lenguaje intermediario que podemos utilizar para comunicar appis entre si, o el front end y el back end, de nuestras aplicaciones"
+                    }
+                ]
+            },
+            {
+                "subtitulo": "Sintaxis",
+                "contenido": [
+                    {
+                        "contenido": "Sintaxis Json: clave-valor, la clave irá del lado izquierdo y el valor del derecho, separados por dos puntos: es   un conjunto de claves y valores que conforman un objeto, que JSon representa mediante la apertura y cierre de llaves{}"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
 {
-    "¿Que es Json?": "JavaScript Object Notation", "es un lenguaje intermediario que podemos utilizar para comunicar appis entre si, o el front end y el back end, de nuestras aplicaciones"
-    "Sintaxis Json": "clave-valor", "la clave ira del lado izquierdo y el valor del derecho, separados por dos puntos :"
-    "un conjunto de claves y valores conforman un objeto, que JSon representa mediante la apertura y cierre de llaves{}"
-    
-    
-    
-    "Objeto JSON": {"Se define abriendo y cerrando llaves, tras las cuales se coloca coma , si se abrira otro objeto"},  //dentro de estas llaves vamos a definir propiedades o atributos del objeto,
-    "Propiedad 1 ejemplo": [
-        {"supongamos que nuestro objeto es una persona},
-    {"persona" que sera el atributo: "Jeff" que sera el valor},
-    {el valor no solo puede ser de texto, puede ser de tipo numerico}
-    ejemplo: [edad: 34]
-    {El valor puede ser tambien una "función"}
-    ejemplo: {render: function(){}}
-
-    Tambien se puede crar un objeto más complejo
-    ejemplo:{"Personas":[
-        {nombre:"Jeff", "edad":23}
-        {nombre:"Jeff", "edad":23}
-    ]};
-
-   }
+    "Capitulo":{
+        "Titulo":"Objeto JSON",
+        "Contenido": [
+            {
+                "Subtitulo": "Descripción",
+                "Contenido": [
+                    {
+                        "contenido":"Se define abriendo y cerrando llaves, tras las cuales se coloca coma , si se abrira otro objeto"  //dentro de estas llaves vamos a definir propiedades o atributos del objeto,
+                    }
+                ]
+            },
+            {
+                "subtitulo":"Propiedad 1 ejemplo",
+                "Contenido": [
+                    {
+                        "contenido":"Supongamos que nuestro objeto es una persona",
+                        "Ejemplo 1": [
+                            {
+                                "Ejemplo 1":"PERSONA que será la CLAVE: JEFF que será el VALOR",
+                            }
+                        ]
+                    }
+                ]
+            {
+                "subtitulo": "Propiedad 2 ejemplo",
+                "Contenido": [
+                    {
+                        "contenido": "El valor no solo puede ser de texto, puede ser de tipo numerico",
+                        "Ejemplo 2": "EDAD que será la CLAVE :34 que será el VALOR"
+                    }
+                ]
+            },
+            {
+                "subtitulo": "Propiedad 3 ejemplo",
+                "Contenido": [
+                    {
+                        "contenido": "El VALOR puede ser tambien una FUNCIÓN",
+                        "Ejemplo 3": "RENDER que será la CLAVE: function(){} que será el VALOR"
+                    }
+                ]
+            },
+            {
+                "subtitulo": "Propiedad 4 ejemplo",
+                "Contenido": [
+                    {
+                        "contenido": " Tambien se puede crar un objeto más complejo",
+                        "Ejemplo 4": "Dónde PERSONAS, sea la CLAVE, y el VALOR sea un conjunto de OBJETOS JSON. Para esto antes de la clave estaría una llave { despues entre comillas la clave PERSONAS dos puntos : tras los cuales se abririan corchetes [ , para incluir otros OBJETOS JSON. Se incluyen los OBJETOS JSON que constituyen el VALOR, y se finaliza cerrando los corchetes ] y la llave }.
+                        {Personas:[
+                                      nombre:Jeff,   edad:34
+                                      nombre:Jorch,  edad:35
+                                      nombre:Sinuhe, edad:40
+                                  ]
+                        };"
+                    }
+                ]
+            }
+        }
+        ]
+    }
+}

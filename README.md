@@ -1,6 +1,7 @@
+<!-- markdownlint-disable MD029 -->
 # Ejemplo-1
 
-El jeff estuvo aqui 💩
+El jeff estuvo aqui 🤓 🧐
 
 ## Este repositorio contiene los primeros ejemplos trabajados con Jeff para github con lenguaje Markdown
 
